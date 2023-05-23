@@ -194,21 +194,7 @@ h1 {
 
 #quote-container:before,
 #quote-container:after {
-  position: absolute;
-  color: #333; 
-  font-size: 24px; 
-}
-
-#quote-container:before {
-  content: "\201C"; 
-  top: 0;
-  left: 0;
-}
-
-#quote-container:after {
-  content: "\201D"; 
-  bottom: 0;
-  right: 0;
+  content: none;
 }
 
 /* Author name */
