@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Quote Generator</title>
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Kanit&display=swap" rel="stylesheet">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+    <!-- Nav Bar -->
+    
+<header>
+    <div class="navbar">
+        <div class="logo">
+            <a href="https://akhilmahesh.netlify.app">AlonePhilic</a>
+        </div>
+        <div class="links">
+            <ul>
+                <li><a href="#">About</a></li>
+                <li><a href="https://github.com/Akhil-Mahesh#-get-in-touch">Contact</a></li>
+                <li><a href="https://akhilmahesh.netlify.app">Website</a></li>
+            </ul>
+            <div class="toggle_btn"><i class="fa-solid fa-bars"></i></div>
+        </div>
+        <a href="https://github.com/Akhil-Mahesh/Quote-Generator" class="action_btn">Source Code</a>
+        <div class="dropdown-menu">
+            <ul>
+                <li><a href="#">About</a></li>
+                <li><a href="https://github.com/Akhil-Mahesh#-get-in-touch">Contact</a></li>
+                <li><a href="https://akhilmahesh.netlify.app">Website</a></li>
+                <li><a href="https://github.com/Akhil-Mahesh/Quote-Generator" class="action_btn">Source Code</a></li>
+            </ul>
+        </div>
+    </div>
+</header>
+    
+    <!-- Nav Bar Ends -->
+    
+    <!-- Contents -->
+    
+<div class="container">
+  <h1 align="center">Quote Generator</h1>
+  <div id="quote-container">
+    <p id="quote-text"></p>
+    <p id="author-container"></p>
+    <button id="copy-btn" onclick="copyToClipboard()"><i class="fas fa-copy"></i></button>
+  </div>
+  <button id="generate-btn" onclick="generateQuote()">Generate</button>
+</div>
+
+    <!-- Contents Ends -->
+    
+    <!-- Footer -->
+    
+<footer>
+    <div class="left"> 
+     &copy; AlonePhilic 2023 
+   </div> 
+   <div class="right"> 
+     <a href="https://github.com/Akhil-Mahesh" target="_blank"><img src="https://res.cloudinary.com/dqocmr8iu/image/upload/v1684833684/Icons/Git.png" alt="Visit"></a> 
+     <a href="https://www.linkedin.com/in/akhil--mahesh" target="_blank"><img src="https://res.cloudinary.com/dqocmr8iu/image/upload/v1684833685/Icons/LinkedIn.png" alt=""></a> 
+     <a href="https://www.instagram.com/akhi_akxu" target="_blank"><img src="https://res.cloudinary.com/dqocmr8iu/image/upload/v1684833684/Icons/Instagram.png" alt=""></a> 
+   </div> 
+</footer>    
+    
+    <!-- Footer Ends -->
+    <script src="main.js"></script>
+    
+</body>
+</html>
