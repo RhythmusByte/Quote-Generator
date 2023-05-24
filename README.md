@@ -58,7 +58,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have any questions or suggestions, please feel free to reach out to me.
 
-- Website: [https://akhilmahesh.netlify.app](https://akhilmahesh.netlify.app)
+- Website: [Visit](https://akhilmahesh.netlify.app)
 - GitHub: [Akhil-Mahesh](https://github.com/Akhil-Mahesh)
 - LinkedIn: [Akhil Mahesh](https://www.linkedin.com/in/akhil--mahesh)
 - Instagram: [akhi_akxu](https://www.instagram.com/akhi_akxu)
