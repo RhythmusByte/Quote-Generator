@@ -136,6 +136,10 @@ header {
 
 /* Contents */
 
+.container {
+    margin: 0 auto;
+}
+
 h1 {
   color: #fff;
 }
