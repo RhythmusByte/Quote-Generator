@@ -36,7 +36,7 @@ To use the quote generator, follow these steps:
 To run the project locally, you can clone the repository and open the `index.html` file in your web browser. No additional dependencies are required.
 
 ```bash
-git clone https://github.com/Akhil-Mahesh/Quote-Generator.git
+git clone https://github.com/RhythmusByte/Quote-Generator.git
 ```
 
 ## Contributing
@@ -59,10 +59,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 If you have any questions or suggestions, please feel free to reach out to me.
 
 - Website: [Visit](https://akhilmahesh.netlify.app)
-- GitHub: [Akhil-Mahesh](https://github.com/Akhil-Mahesh)
-- LinkedIn: [Akhil Mahesh](https://www.linkedin.com/in/akhil--mahesh)
-- Instagram: [akhi_akxu](https://www.instagram.com/akhi_akxu)
-- Mail : [Email](mailto:akhilmahesh.tech@gmail.com)
+- GitHub: [Akhil-Mahesh](https://github.com/RhythmusByte)
+- LinkedIn: [Akhil Mahesh](https://www.linkedin.com/in/rhythmusbyte)
+- Instagram: [rhythmusbyte](https://instagram.com/rhythmusbyte)
+- Mail : [Email](mailto: akhilmahesh@proton.me)
 
 ## Conclusion  
 
