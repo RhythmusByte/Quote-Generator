@@ -62,7 +62,7 @@ If you have any questions or suggestions, please feel free to reach out to me.
 - GitHub: [Akhil-Mahesh](https://github.com/RhythmusByte)
 - LinkedIn: [Akhil Mahesh](https://www.linkedin.com/in/rhythmusbyte)
 - Instagram: [rhythmusbyte](https://instagram.com/rhythmusbyte)
-- Mail : [Email](mailto: akhilmahesh@proton.me)
+- Mail : [Email](mailto:akhilmahesh@proton.me)
 
 ## Conclusion  
 
