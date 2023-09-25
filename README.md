@@ -2,7 +2,7 @@
 
 This repository contains the source code for a web-based quote generator. The generator allows users to generate random quotes and copy them to the clipboard. The project is hosted on [Netlify](https://www.netlify.com/) and is open for collaboration.
 
-<p align="center"><a href="https://akhilmahesh.netlify.app/"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></a></p>
+<p align="center"><a href="https://akhilmahesh.netlify.app/"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" /></a></p>
 
 ## Demo
 
