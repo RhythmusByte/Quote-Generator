@@ -58,11 +58,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have any questions or suggestions, please feel free to reach out to me.
 
-- Website: [Visit](https://akhilmahesh.netlify.app)
-- GitHub: [Akhil-Mahesh](https://github.com/RhythmusByte)
-- LinkedIn: [Akhil Mahesh](https://www.linkedin.com/in/rhythmusbyte)
-- Instagram: [@rhythmusbyte](https://instagram.com/rhythmusbyte)
-- Mail: [Mail](mailto:AkhilMahesh@proton.me)
+- [Website](https://akhilmahesh.netlify.app)
+- [GitHub](https://github.com/RhythmusByte)
+- [LinkedIn](https://www.linkedin.com/in/rhythmusbyte)
+- [Instagram](https://instagram.com/rhythmusbyte)
+- [Mail](mailto:AkhilMahesh@proton.me)
 
 ## Conclusion  
 
