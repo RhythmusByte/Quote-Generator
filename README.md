@@ -6,7 +6,7 @@ This repository contains the source code for a web-based quote generator. The ge
 
 ## Demo
 
-A live demo of the quote generator can be found at [here](https://akhil-quote-generator.netlify.app/).
+A live demo of the quote generator can be found at [here](https://akhil-quote-generator.netlify.app).
 
 ## Features
 
@@ -14,55 +14,13 @@ A live demo of the quote generator can be found at [here](https://akhil-quote-ge
 - Copy quotes to the clipboard
 - Responsive design for various screen sizes
 
-## Technologies Used
-
-The project is built using the following technologies:
-
-- HTML
-- CSS
-- JavaScript
-
-## Usage
-
-To use the quote generator, follow these steps:
-
-1. Open the [live demo](https://akhil-quote-generator.netlify.app/) in your web browser.
-2. Click the "Generate" button to generate a random quote.
-3. Click the copy button (clipboard icon) to copy the quote to your clipboard.
-4. Regenerate quotes as desired.
-
-## Installation
-
-To run the project locally, you can clone the repository and open the `index.html` file in your web browser. No additional dependencies are required.
-
-```bash
-git clone https://github.com/RhythmusByte/Quote-Generator.git
-```
-
-## Contributing
-
-Contributions to the project are welcome. If you would like to contribute, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make the necessary changes.
-4. Commit your changes.
-5. Push your changes to your forked repository.
-6. Submit a pull request.
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
 ## Contact
 
-If you have any questions or suggestions, please feel free to reach out to me.
-
-- [Website](https://akhilmahesh.netlify.app)
-- [GitHub](https://github.com/RhythmusByte)
-- [LinkedIn](https://www.linkedin.com/in/rhythmusbyte)
-- [Instagram](https://instagram.com/rhythmusbyte)
-- [Mail](mailto:AkhilMahesh@proton.me)
+If you have any questions or suggestions, please feel free to [reach out](https://rhythmusbytelinks.netlify.app).
 
 ## Conclusion  
 
