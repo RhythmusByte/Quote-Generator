@@ -52,6 +52,7 @@ const quotes = [
   { text: "Life is too important to be taken seriously.", author: "Oscar Wilde" },
   { text: "Life is like a camera. Focus on the good times, develop from the negatives, and if things don't work out, take another shot.", author: "Unknown" },
   { text: "Life is not a matter of milestones but of moments.", author: "Rose Kennedy" },
+  { text: "I prefer to be in solitude, rather than being a spotlight!", author: "RhythmusByte" },
   { text: "Life is a game, play it; life is a challenge, meet it; life is an opportunity, capture it.", author: "Unknown" },
   {
     text: "Love is not about how many days, months, or years you've been together. It's about how much you love each other every single day.",
