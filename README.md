@@ -1,4 +1,4 @@
-# Quote Generator
+# Quote Generator 
 
 This repository contains the source code for a web-based quote generator. The generator allows users to generate random quotes and copy them to the clipboard. The project is hosted on [Netlify](https://www.netlify.com/) and is open for collaboration.
 
