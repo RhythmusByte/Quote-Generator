@@ -54,7 +54,10 @@ const quotes = [
   { text: "Life is not a matter of milestones but of moments.", author: "Rose Kennedy" },
   { text: "I prefer to be in solitude, rather than being a spotlight!", author: "RhythmusByte" },
   { text: "Life is a game, play it; life is a challenge, meet it; life is an opportunity, capture it.", author: "Unknown" },
-  { text: "Love is not about how many days, months, or years you've been together. It's about how much you love each other every single day.", author: "Unknown" },
+  {
+    text: "Love is not about how many days, months, or years you've been together. It's about how much you love each other every single day.",
+    author: "Unknown"
+  },
   {
     text: "You are the source of my joy, the center of my world, and the whole of my heart.",
     author: "Unknown"
@@ -454,8 +457,7 @@ const quotes = [
   {
     text: "Being alone does not mean you are lonely, and being lonely does not mean you are alone.",
     author: "Unknown"
-  },
-  { text: "
+  }
 ];
   
  // Quotes Ends
@@ -490,4 +492,7 @@ function copyToClipboard() {
   window.getSelection().addRange(range);
   document.execCommand("copy");
   window.getSelection().removeAllRanges();
+  alert("Quote copied to clipboard!");
 }
+
+
